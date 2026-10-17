@@ -1,0 +1,6 @@
+{
+  "name": "Stock-Ism",
+  "description": "Real-time stock market analysis, signals, live quotes, historical price charts, and financial news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
